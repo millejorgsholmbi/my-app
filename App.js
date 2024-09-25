@@ -37,7 +37,7 @@ const Tab = createBottomTabNavigator();
 export default function App() {
   return (
     // NavigationContainer holder appens navigationstruktur
-    //Hver skærm/fane defineres som en Tab.Screen
+    //Hver skærm/fane defineres som en Tab.Screen...
     <NavigationContainer>
       <Tab.Navigator>
         <Tab.Screen
