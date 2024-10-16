@@ -13,6 +13,7 @@ export default function Homescreen({ navigation }) {
       age: 21,
       url: require("../imgs/anna.jpg"),
       description: "Loves hiking and coffee. Looking for a roommate.",
+      location: { latitude: 55.6777, longitude: 12.5214 }, // Frederiksberg coordinates
     },
     {
       name: "Emma",
