@@ -14,14 +14,14 @@ import LoginScreen from "./components/loginScreen";
 
 // Firebase Configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBNs37IJZr4K3qXgn2uPqaW8xr1OcGs-gE",
-  authDomain: "innt-gk1.firebaseapp.com",
+  apiKey: "AIzaSyDJ_P36lpR2b5CouC25IMs834ovsMEuLnc",
+  authDomain: "innt-gk2.firebaseapp.com",
   databaseURL:
-    "https://innt-gk1-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "innt-gk1",
-  storageBucket: "innt-gk1.appspot.com",
-  messagingSenderId: "675636238635",
-  appId: "1:675636238635:web:6dc99fd2c1cb2f79534d6e",
+    "https://innt-gk2-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "innt-gk2",
+  storageBucket: "innt-gk2.appspot.com",
+  messagingSenderId: "263010528895",
+  appId: "1:263010528895:web:8e920604cd265abba3194a",
 };
 
 // Initialiser Firebase
